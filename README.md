@@ -1,5 +1,3 @@
-### Hi there 👋
-#I'm Glorious Joy from Kenya and I do full-stack development.
 ### Hi there 👋, I am Glorious
 #### I'm a FullStack Software Developer and a Technocrat
 I am passionate about exploring new ways to solve problems by creating scalable software. 
